@@ -4,7 +4,7 @@ Este es un proyecto simple de una página web responsiva que incluye un menú ti
 
 ## 🚀 Ver el Proyecto
 
-🔗 [Haz clic aquí para ver el proyecto en vivo](https://axelalva2023.github.io/menu-hamburguesa-js/)
+🔗 [Haz clic aquí para ver el proyecto en vivo](https://axelalva2023.github.io/proyecto-budin/)
 
 ## 🛠️ Tecnologías Utilizadas
 
